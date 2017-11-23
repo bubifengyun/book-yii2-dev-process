@@ -74,5 +74,15 @@
 如果您感觉本文写的不错，想给本人一点支持，除了上面的协助开发外，还可以捐赠一两块钱手机流量钱。
 您的支持是将是我更新内容的一大动力，谢谢。下面分别是微信和支付宝。
 
+<table>
+<tbody>
+<tr>
+<td>
 <img src="./images/readme_weixin.png" width="200" height="200"/>
+</td>
+<td>
 <img src="./images/readme_zhifubao.png" width="200" height="200"/>
+</td>
+</tr>
+</tbody>
+</table>
