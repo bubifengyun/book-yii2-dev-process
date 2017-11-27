@@ -1,0 +1,33 @@
+{
+    "title": "Yii2 网站开发流程",
+    "description": "我们一起在武汉",
+    "language": "zh",
+    "plugins": [
+        "disqus",
+        "github",
+        "editlink",
+        "image-captions",
+        "splitter",
+        "include-codeblock",
+        "ace"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "开发记录"
+        },
+        "theme-default": {
+         	"showLevel": true
+    	},
+        "github": {
+            "url": "https://github.com/bubifengyun/book-yii2-dev-process"
+        },
+        "editlink": {
+            "base": "https://github.com/bubifengyun/book-yii2-dev-process/blob/master/src",
+            "label": "编辑本页"
+        },
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        }
+    }
+}
