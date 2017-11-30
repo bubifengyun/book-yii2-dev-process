@@ -18,7 +18,7 @@
 + [xampp 部分配置文件说明,php.ini，http.conf，http-xampp.conf，http-vhosts.conf](ch-1-18.md)（杨小永）
 + [VritualBox 简介](ch-1-19.md)(...虚位以待...)
 + 百度 Echarts 的使用（已经完成）
-+ [MVC 模式简介](ch-1-08.md)(...虚位以待...)
++ [MVC 模式简介](ch-1-08.md)(我要改这个文章)
 + 生产环境的 apache, mysql 服务器搭建（参考 Linux Bible 一书）
 + modal 弹出框的介绍
 + [网站安装模块的实现](ch-2-35.md)
