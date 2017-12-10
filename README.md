@@ -44,7 +44,7 @@
 工作较忙，源码尚未发布，敬请期待。源码地址： https://github.com/bubifengyun/code-book-yii2-dev-process
 代码将会采用分章节的形式设定 tag，方便查看不同的代码。当前演示页面没有跟上节奏。
 
-[演示页面](https://frumentaceous-colle.000webhostapp.com/)：
+[演示页面](https://frumentaceous-colle.000webhostapp.com/)：https://frumentaceous-colle.000webhostapp.com/
 - 用户名：舞林大会
 - 密码：舞林大会舞林大会
 
