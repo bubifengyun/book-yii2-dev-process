@@ -45,10 +45,9 @@
 代码将会采用分章节的形式设定 tag，方便查看不同的代码。当前演示页面没有跟上节奏。
 
 [演示页面](https://frumentaceous-colle.000webhostapp.com/)：https://frumentaceous-colle.000webhostapp.com/
-- 用户名：舞林大会
-- 密码：舞林大会舞林大会
+- 用户：舞林大会
+- 密码：舞林大会
 
-亦可以自行注册。
 
 ## 六、意见及反馈
 
